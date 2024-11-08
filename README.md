@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # API-SPA
 # API-SPA
 # API-SPA
+# API
