@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # API
 # API-SPA
 # API-SPA
+# API-SPA
